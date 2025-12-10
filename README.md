@@ -21,7 +21,7 @@
 `TensorFlow` `Scikit-learn` `Pandas` `OpenCV` `Seaborn` `LLMs` `RAG`
 
 ### 💻 Languages
-`Python` `C++` `JavaScript` `PHP` `SQL` `MATLAB` `HTML/CSS`
+`Python` `C++` `JavaScript` `PHP` `SQL` `MATLAB` `HTML/CSS`  `React` `TailwandCSS`
 
 ### 🛠️ Tools
 `Git` `Docker` `Google Colab` `Kaggle` `VS Code`
